@@ -4,5 +4,11 @@ public class P01 {
         int a= 120;
         int b= 80;
 
+        int c;
+        c= a+b;
+        System.out.println("c= " + c);
+
+
+
     }
 }
